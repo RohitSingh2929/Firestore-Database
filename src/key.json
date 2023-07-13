@@ -1,0 +1,13 @@
+{
+    "type": "YOUR ACCOUNT TYPE",
+    "project_id": "YOUR PROJECT ID",
+    "private_key_id": "YOUR PRIVATE KEY ID",
+    "private_key": "-----BEGIN PRIVATE KEY-----YOUR PRIVATE KEY-----END PRIVATE KEY-----\n",
+    "client_email": "YOUR client_email",
+    "client_id": "YOUR client_id",
+    "auth_uri": "YOUR auth_uri",
+    "token_uri": "YOUR token_uri",
+    "auth_provider_x509_cert_url": "YOUR auth provider x509 certificate url",
+    "client_x509_cert_url": "YOUR client x509 certificate url",
+    "universe_domain": "YOUR universe domain"
+}
